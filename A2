@@ -1,0 +1,2 @@
+1-rebase moves the base of feature branch to head of master "git rebase master"
+2-merge takes the head of a branch and integrates it to head another branch creating a new commit
